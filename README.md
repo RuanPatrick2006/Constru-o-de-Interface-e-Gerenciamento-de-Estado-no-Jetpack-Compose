@@ -1,1 +1,4 @@
-# Constru-o-de-Interface-e-Gerenciamento-de-Estado-no-Jetpack-Compose
+# Central de Letramento Digital e Prevenção de Golpes
+Kauê Felippe
+Natan Vargas
+Ruan Patrick
